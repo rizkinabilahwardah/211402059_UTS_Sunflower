@@ -18,13 +18,13 @@ package com.google.samples.apps.sunflower.ui
 
 import androidx.compose.ui.graphics.Color
 
-val md_theme_light_primary = Color(0xFF246D00)
-val md_theme_light_onPrimary = Color(0xFFFFFFFF)
-val md_theme_light_primaryContainer = Color(0xFFA6F780)
+val md_theme_light_primary = Color(0xffffb6c1)
+val md_theme_light_onPrimary = Color(0xfff08080)
+val md_theme_light_primaryContainer = Color(0xffffc0cb)
 val md_theme_light_onPrimaryContainer = Color(0xFF062100)
-val md_theme_light_secondary = Color(0xFF55624C)
+val md_theme_light_secondary = Color(0xffcd5c5c)
 val md_theme_light_onSecondary = Color(0xFFFFFFFF)
-val md_theme_light_secondaryContainer = Color(0xFFD8E7CB)
+val md_theme_light_secondaryContainer = Color(0xffffc0cb)
 val md_theme_light_onSecondaryContainer = Color(0xFF131F0D)
 val md_theme_light_tertiary = Color(0xFF386667)
 val md_theme_light_onTertiary = Color(0xFFFFFFFF)
@@ -45,7 +45,7 @@ val md_theme_light_inverseOnSurface = Color(0xFFF1F1EA)
 val md_theme_light_inverseSurface = Color(0xFF2F312D)
 val md_theme_light_inversePrimary = Color(0xFF8BDA67)
 val md_theme_light_shadow = Color(0xFF000000)
-val md_theme_light_surfaceTint = Color(0xFF246D00)
+val md_theme_light_surfaceTint = Color(0xffcd5c5c)
 val md_theme_light_outlineVariant = Color(0xFFC3C8BB)
 val md_theme_light_scrim = Color(0xFF000000)
 
